@@ -437,3 +437,13 @@ body {
     top: 70vh;
   }
 }
+@media only screen and (max-width: 1050px) {
+  .sec-2 {
+    h1 {
+      font-size: 60px;
+    }
+  }
+  #s5h1 {
+    font-size: 65px;
+  }
+}
